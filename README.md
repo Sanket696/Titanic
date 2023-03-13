@@ -1,1 +1,2 @@
-# Titanic
+The Titanic dataset is a classic machine learning dataset that contains information about the passengers onboard the Titanic when it sank on its maiden voyage in 1912. The dataset is commonly used for binary classification problems, with the goal of predicting whether a passenger survived or not.
+The dataset is often used to explore the relationship between various features and the survival of passengers. For example, it has been shown that passengers in higher classes had a higher chance of survival, as did women and children. The dataset is also used to evaluate the performance of machine learning algorithms for binary classification tasks.
